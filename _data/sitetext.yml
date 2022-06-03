@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Diversity"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "A multicultural and multi-faith lodge uniting men from all walks of life: taxi drivers, doctors, City bankers, software developers, businessmen and everyone in between."
+        icon: fas fa-globe  #find more at https://fontawesome.com/icons
       - title: "Meetings"
         desc: "The lodge holds four regular meetings each year on 1st Tuesday in February, April, October and December. The meetings are held at Freemasons' Hall which is located in the heart of London at 60 Great Queen Street, London WC2B 5AZ. The closest tube stations are Holborn and Covent Garden."
         icon: fas fa-calendar
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Open to new members](#contact)"
+        desc: "If you are interested in joining the lodge, whether already a freemason or not, or are just interested in finding out more about freemasonry, then please use the form below to contact the Secretary who would be delighted to talk further to you."
+        icon: fas fa-hand-point-down
 #
     #  portfolio:
     #    title: "Portfolio"
@@ -138,7 +138,7 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Phone Number*"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
@@ -146,7 +146,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    #legal: "Privacy Policy"
     social:
       - url: https://twitter.com/UGLE_GrandLodge
         icon: "fab fa-twitter"
