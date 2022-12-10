@@ -162,7 +162,7 @@ header.masthead .intro-text .intro-heading { font-size: 50px; font-weight: 700; 
 
 .team-member p { margin-top: 0; }
 
-section#contact { background-color: #212529; background-image: url("../img/map-image.png"); background-repeat: no-repeat; background-position: center; }
+section#contact { background-color: #000000; background-image: url("../img/checkered_floor.png"); background-repeat: no-repeat; background-position: center; }
 
 section#contact .section-heading { color: #fff; }
 
